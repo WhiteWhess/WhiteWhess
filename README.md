@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-### few words about me: 
-  - 💬 Main languages: Ukrainian, Russian
-  - ⌨ Main programming languages: Java, Python, Lua and C#
-  - 🌱 Currently learning JavaScript
-  - 🌎 From Ukraine
+<p> few words about me: </p>
+<p>  - 💬 Main languages: Ukrainian, Russian </p>
+<p>  - ⌨ Main programming languages: Java, Python, Lua and C# </p>
+<p>  - 🌱 Currently learning JavaScript </p>
+<p>  - 🌎 From Ukraine </p>
 </p>
   
 <p align="center">
