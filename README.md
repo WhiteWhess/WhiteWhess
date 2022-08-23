@@ -7,10 +7,10 @@
 </p>
 
 <h2 align="center"> few words about me: </h2>
-<p align="center">  - 💬 Main languages: Ukrainian, Russian </p>
-<p align="center">  - ⌨ Main programming languages: Java, Python, Lua and C# </p>
-<p align="center">  - 🌱 Currently learning JavaScript </p>
-<p align="center">  - 🌎 From Ukraine </p>
+<p align="center"> - 💬 Main languages: Ukrainian, Russian </p>
+<p align="center"> - ⌨ Main programming languages: Java, Python, Lua and C# </p>
+<p align="center"> - 🌱 Currently learning JavaScript </p>
+<p align="center"> - 🌎 From Ukraine </p>
   
 <p align="center">
 <img width="600" src="github-snake.svg" alt="snake"/>
