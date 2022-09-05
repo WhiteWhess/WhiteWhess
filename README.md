@@ -6,12 +6,13 @@
  <br>
 </p>
 
+<p align="center">
+<img width="400" src="github-snake.svg" alt="snake"/>
+</p>
+
 <h3 align="center"> Few words about me </h3>
 <h5 align="center"> - 💬 Main languages: Ukrainian, Russian </h5>
 <h5 align="center"> - ⌨ Main programming languages: Java and C++ </h5>
 <h5 align="center"> - 🌱 Currently learning JavaScript </h5>
 <h5 align="center"> - 🌎 From Ukraine </h5>
   
-<p align="center">
-<img width="400" src="github-snake.svg" alt="snake"/>
-</p>
