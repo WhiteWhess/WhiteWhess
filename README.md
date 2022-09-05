@@ -4,6 +4,16 @@
 <img width="400" src="github-snake.svg" alt="snake"/>
 </p>
 <p align="center">------------------------------------------------------------------</p>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteWhess&theme=apprentice" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=WhiteWhess&show_icons=true&theme=apprentice" />
+</a>
+
+<p align="center">------------------------------------------------------------------</p>
 <h3 align="center"> Few words about me </h3>
 <h5 align="center"> - 💬 Main languages: Ukrainian, Russian </h5>
 <h5 align="center"> - ⌨ Main programming languages: Java and C++ </h5>
@@ -17,10 +27,4 @@
  <br>
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteWhess&theme=apprentice" />
-</a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=WhiteWhess&show_icons=true&theme=apprentice" />
-</a>
