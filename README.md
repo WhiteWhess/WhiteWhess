@@ -1,7 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteWhess&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteWhess&show_icons=true&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
-
 <h3 align="center">Java Developer</h3>
 <p align="center">------------------------------------------------------------------</p>
 <p align="center">
@@ -20,3 +16,7 @@
  <a href="https://pastebin.com/raw/aXquGKJ0"><img src="https://img.shields.io/badge/-Discord-lightgrey?style=flat&logo=Discord&logoColor=white" /></a>
  <br>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteWhess&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteWhess&show_icons=true&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
