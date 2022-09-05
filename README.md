@@ -13,10 +13,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=WhiteWhess&show_icons=true&theme=apprentice" />
 </a>
 
-<h6 align="center"> </h3>
-<h6 align="center"> </h3>
-<h6 align="center"> </h3>
-<h6 align="center"> </h3>
+<h1 align="center"> </h1>
 <p align="center">------------------------------------------------------------------</p>
 <h3 align="center"> Few words about me </h3>
 <h5 align="center"> - 💬 Main languages: Ukrainian, Russian </h5>
