@@ -2,6 +2,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteWhess)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteWhess&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">------------------------------------------------------------------</p>
 <p align="center">
 <img width="400" src="github-snake.svg" alt="snake"/>
