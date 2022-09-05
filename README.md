@@ -1,9 +1,9 @@
 <h3 align="center">Java Developer</h3>
-
+<p align="center">------------------------------------------------------------------</p>
 <p align="center">
 <img width="400" src="github-snake.svg" alt="snake"/>
 </p>
-
+<p align="center">------------------------------------------------------------------</p>
 <h3 align="center"> Few words about me </h3>
 <h5 align="center"> - 💬 Main languages: Ukrainian, Russian </h5>
 <h5 align="center"> - ⌨ Main programming languages: Java and C++ </h5>
