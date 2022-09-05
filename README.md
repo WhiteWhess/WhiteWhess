@@ -5,13 +5,9 @@
 </p>
 <p align="center">------------------------------------------------------------------</p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteWhess&theme=apprentice" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteWhess&theme=apprentice" />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=WhiteWhess&show_icons=true&theme=apprentice" />
-</a>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=WhiteWhess&show_icons=true&theme=apprentice" />
 
 <h1 align="center"> </h1>
 <p align="center">------------------------------------------------------------------</p>
