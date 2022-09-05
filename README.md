@@ -16,4 +16,4 @@
  <a href="https://pastebin.com/raw/aXquGKJ0"><img src="https://img.shields.io/badge/-Discord-lightgrey?style=flat&logo=Discord&logoColor=white" /></a>
  <br>
 </p>
-![WHESS's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteWhess&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteWhess&theme=dark&show_icons=true)
