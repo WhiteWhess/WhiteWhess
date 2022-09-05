@@ -7,10 +7,10 @@
 </p>
 
 <h2 align="center"> Few words about me </h2>
-<p align="center" color="#fff"> - 💬 Main languages: Ukrainian, Russian </p>
-<p align="center"> - ⌨ Main programming languages: Java and C++ </p>
-<p align="center"> - 🌱 Currently learning JavaScript </p>
-<p align="center"> - 🌎 From Ukraine </p>
+<h1 align="center"> - 💬 Main languages: Ukrainian, Russian </h1>
+<h1 align="center"> - ⌨ Main programming languages: Java and C++ </h1>
+<h1 align="center"> - 🌱 Currently learning JavaScript </h1>
+<h1 align="center"> - 🌎 From Ukraine </h1>
   
 <p align="center">
 <img width="600" src="github-snake.svg" alt="snake"/>
