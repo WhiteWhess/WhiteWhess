@@ -7,7 +7,7 @@
 </p>
 
 <h2 align="center"> Few words about me </h2>
-<p align="center"> - 💬 Main languages: Ukrainian, Russian </p>
+<p align="center" color="#f00"> - 💬 Main languages: Ukrainian, Russian </p>
 <p align="center"> - ⌨ Main programming languages: Java and C++ </p>
 <p align="center"> - 🌱 Currently learning JavaScript </p>
 <p align="center"> - 🌎 From Ukraine </p>
