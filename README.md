@@ -9,6 +9,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=WhiteWhess&show_icons=true&theme=apprentice" />
 </a>
 
+<h1 align="center"> </h1>
+
 <h3 align="center"> Few words about me </h3>
 <h5 align="center"> - 💬 Main languages: Ukrainian, Russian </h5>
 <h5 align="center"> - ⌨ Main programming languages: Java and C++ </h5>
