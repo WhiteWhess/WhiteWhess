@@ -13,5 +13,5 @@
 <h5 align="center"> - 🌎 From Ukraine </h5>
   
 <p align="center">
-<img width="600" src="github-snake.svg" alt="snake"/>
+<img width="400" src="github-snake.svg" alt="snake"/>
 </p>
