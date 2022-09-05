@@ -1,4 +1,7 @@
 <h3 align="center">Java Developer</h3>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteWhess)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">------------------------------------------------------------------</p>
 <p align="center">
 <img width="400" src="github-snake.svg" alt="snake"/>
