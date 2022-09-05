@@ -5,7 +5,7 @@
 
 <h1 align="center"> </h1>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/WhiteWhess/WhiteWhess">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=WhiteWhess&show_icons=true&theme=apprentice" />
 </a>
 
@@ -19,7 +19,7 @@
 
 <h1 align="center"> </h1>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/WhiteWhess/WhiteWhess">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteWhess&theme=apprentice" />
 </a>
 
