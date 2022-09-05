@@ -1,3 +1,4 @@
+<p align="center">------------------------------------------------------------------</p>
 <h3 align="center">Java Developer</h3>
 <p align="center">------------------------------------------------------------------</p>
 <p align="center">
@@ -16,3 +17,4 @@
  <a href="https://pastebin.com/raw/aXquGKJ0"><img src="https://img.shields.io/badge/-Discord-lightgrey?style=flat&logo=Discord&logoColor=white" /></a>
  <br>
 </p>
+<p align="center">------------------------------------------------------------------</p>
