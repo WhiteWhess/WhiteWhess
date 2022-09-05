@@ -6,7 +6,7 @@
  <br>
 </p>
 
-<h2 align="center"> Few words about me </h2>
+<h3 align="center"> Few words about me </h3>
 <h5 align="center"> - 💬 Main languages: Ukrainian, Russian </h5>
 <h5 align="center"> - ⌨ Main programming languages: Java and C++ </h5>
 <h5 align="center"> - 🌱 Currently learning JavaScript </h5>
