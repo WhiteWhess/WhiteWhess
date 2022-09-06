@@ -6,11 +6,11 @@
 <h1 align="center"> </h1>
 
 <a href="https://github.com/WhiteWhess">
-  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api?username=WhiteWhess&show_icons=true&theme=apprentice" />
+  <img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=WhiteWhess&show_icons=true&theme=apprentice" />
 </a>
 
 <a href="https://github.com/WhiteWhess">
-  <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteWhess&theme=apprentice" />
+  <img align="right" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteWhess&theme=apprentice" />
 </a>
 
 <h1 align="center"> </h1>
