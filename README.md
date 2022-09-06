@@ -10,7 +10,7 @@
 </a>
 
 <a href="https://github.com/WhiteWhess">
-  <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteWhess&theme=apprentice" />
+  <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteWhess&theme=apprentice" />
 </a>
 
 <h1 align="center"> </h1>
