@@ -6,7 +6,7 @@
 <h1 align="center"> </h1>
 
 <a href="https://github.com/WhiteWhess">
-  <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=WhiteWhess&show_icons=true&theme=apprentice" />
+  <img align="left" width="470" src="https://github-readme-stats.vercel.app/api?username=WhiteWhess&show_icons=true&theme=apprentice" />
 </a>
 
 <a href="https://github.com/WhiteWhess">
