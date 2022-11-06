@@ -1,7 +1,5 @@
 <h1 align="center">0xWHITEWHESS's profile</h1>
 
-<h1 align="center"> </h1>
-
 <a href="https://github.com/WhiteWhess">
   <img align="left" width="460" src="https://github-readme-stats.vercel.app/api?username=WhiteWhess&show_icons=true&theme=apprentice" />
 </a>
